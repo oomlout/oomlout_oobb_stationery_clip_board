@@ -2,6 +2,8 @@ id: oomlout_oobb_stationery_clip_board
 project_name: Oomlout Oobb Stationery Clip Board
 project_description: Oomlout Oobb Stationery Clip Board
 project_repo: https://github.com/oomlout/oomlout_oobb_stationery_clip_board
-#production_format: 
-#  oolc_1: 
-#    file_location: source_files/oolc_1.cdr
+production_format: 
+  oolc_1_oomlout_oobb_stationery_clip_board_a5_12_width_17_height: 
+    file_location: source_files/oolc_1.cdr
+  oolc_2_oomlout_oobb_stationery_clip_board_a4_16_width_22_height:
+    file_location: source_files/oolc_2.cdr  
