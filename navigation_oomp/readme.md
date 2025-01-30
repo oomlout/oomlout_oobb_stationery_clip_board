@@ -1,7 +1,0 @@
-* [paper](paper)
-  * [sheet](paper/sheet)
-    * [a4_210_mm_width_297_mm_height](paper/sheet/a4_210_mm_width_297_mm_height)
-* [stationery](stationery)
-  * [clip_binder](stationery/clip_binder)
-    * [38_mm_width](stationery/clip_binder/38_mm_width)
-      * [metal](stationery/clip_binder/38_mm_width/metal)
